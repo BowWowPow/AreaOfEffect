@@ -14,7 +14,7 @@ public class Cell : MonoBehaviour
         _obj.SetActive(false);
     }
 
-
+    
     public void Switch()
     {
         if (on)
