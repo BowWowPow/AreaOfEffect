@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+AOE/Library/SourceAssetDB
+AOE/Library/ShaderCache.db
+AOE/Library/Search/transactions.db
+AOE/Library/ArtifactDB
+AOE/UserSettings/EditorUserSettings.asset
+AOE/Temp/__Backupscenes/0.backup
+AOE/Temp/UnityLockfile
